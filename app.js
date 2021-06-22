@@ -27,4 +27,18 @@ let bookTitle = [
 btn.addEventListener("click", function(){
     var randomBook = bookTitle[Math.floor(Math.random() * bookTitle.length)]
     output.innerHTML = randomBook;
+
+    // saveLocalBooks(randomBook.id);
 })
+
+// function saveLocalBooks(bookTitle) {
+//     // let bookTitle;
+//     if (localStorage.getItem("output") === null) {
+//         bookTitle = [];
+//     } else {
+//         bookTitle = JSON.parse(localStorage.getItem("output"));
+//     }
+//     bookTitle.push(bookTitle);
+//     localStorage.setItem("output", JSON.stringify(bookTitle));
+//   }
+console.log(localStorage);
