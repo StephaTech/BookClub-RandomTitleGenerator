@@ -1,0 +1,24 @@
+body{
+    background: rgb(155, 155, 214);
+}
+#container{
+    background-color: aliceblue;
+    border: 5px solid rgb(30, 4, 77);
+    height: 200px;
+    width: 750px;
+    margin-top: 10%;
+    /* margin: 0; */
+    /* margin: center; */
+    text-align: center;
+}
+#btn{
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    background-color: rgb(78, 216, 216);
+}
+output{
+    margin: 25px;
+    font-size: 26px;
+    
+}
