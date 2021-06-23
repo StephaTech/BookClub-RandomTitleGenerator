@@ -17,9 +17,9 @@ let bookTitle = [
 "Quem tem medo do feminismo negro by Djamila Ribeiro",
 "All God children need travelling shoes by Maya Angelou",
 
-"The Clocks by Agatha Christie",
-"The Moving finger by Agatha Christie",
-"Uma breve historia da humanidade sapiens by Yuval Noah Harari",
+"The Beauty Myth", 
+"All about Love", 
+"A Gentleman in Moscow",
 
 "Mulheres, Raca e Classe by Angela Davis",
 "Murder in Mesopotamia by Agatha Christie"];
